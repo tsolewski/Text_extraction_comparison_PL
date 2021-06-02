@@ -10,7 +10,7 @@ Evaluation results
 -----------
 There have been two categories of webpages tested: news and forums.  
 
-**News** (01.06.2021)
+**News** (01.06.2021):
 | Python Package | Precision | Recall | Accuracy | F-Score | Diff. |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | baseline (text markup) | 0.588 | 0.753 | 0.637 | 0.660 | 1x |
@@ -20,7 +20,7 @@ There have been two categories of webpages tested: news and forums.
 | trafilatura | 0.797 | 0.663 | 0.763 | 0.724 | 3.27x |
 | trafilatura (+ fallbacks) | 0.795 | 0.697 | 0.774 | 0.743 | 5.59x |
 
-**Forums** (01.06.2021)
+**Forums** (01.06.2021):
 | Python Package | Precision | Recall | Accuracy | F-Score | Diff. |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | baseline (text markup) | 0.524 | 0.278 | 0.525 | 0.364 | 1x |
