@@ -8,7 +8,7 @@ This review aims at measuring performance of popular Python text extraction tool
 
 Evaluation results
 -----------
-There have been two categories of webpages tested: news and forums.  
+There have been two categories of webpages tested: news and forums. This is to show that some tools are focused on one-main-text webpages while others are all-purpose extractors. Use should always depend on one's needs.  
 
 **News** (01.06.2021):
 | Python Package | Precision | Recall | Accuracy | F-Score | Diff. |
