@@ -35,7 +35,7 @@ Every purpose will have their own favorites here. As for creation of text corpor
 
 The evaluation works in the following way: each tool extracts the pure texts from the .html's provided. Meanwhile, in the evaldata files there is indication for each webpage which elements (words, phrases) should be included and which are 'negatives' and shall be filtered out. Then there is a comparison carried out between the extracted text and the list of 'positives' and 'negatives'. As a result confusion matrix is built, which gives opportunity to calculate precision, recall, accuracy and f1-score printed above.  
 
-The data used was chosen by myself and used within the frames provided with [adbar's research](https://github.com/adbar/trafilatura). If you want to replicate this test you should choose your own selection of webpages and indicate them in evaldata files as well as save their .html's in the *eval* directory.
+The particular data used, i.e. websites for analysis, had been chosen by myself and it waas used within the frames provided with [adbar's research](https://github.com/adbar/trafilatura). If you want to replicate this test you should choose your own selection of webpages and indicate them in evaldata files as well as save their .html's in the *eval* directory.
 
 Acknowledgments und use
 -------
